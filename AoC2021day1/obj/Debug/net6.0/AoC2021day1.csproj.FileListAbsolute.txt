@@ -1,0 +1,15 @@
+C:\Users\hasan\OneDrive\Skrivbord\ForSumonBhai\AoC2021day1\AoC2021day1\bin\Debug\net6.0\AoC2021day1.exe
+C:\Users\hasan\OneDrive\Skrivbord\ForSumonBhai\AoC2021day1\AoC2021day1\bin\Debug\net6.0\AoC2021day1.deps.json
+C:\Users\hasan\OneDrive\Skrivbord\ForSumonBhai\AoC2021day1\AoC2021day1\bin\Debug\net6.0\AoC2021day1.runtimeconfig.json
+C:\Users\hasan\OneDrive\Skrivbord\ForSumonBhai\AoC2021day1\AoC2021day1\bin\Debug\net6.0\AoC2021day1.dll
+C:\Users\hasan\OneDrive\Skrivbord\ForSumonBhai\AoC2021day1\AoC2021day1\bin\Debug\net6.0\AoC2021day1.pdb
+C:\Users\hasan\OneDrive\Skrivbord\ForSumonBhai\AoC2021day1\AoC2021day1\obj\Debug\net6.0\AoC2021day1.csproj.AssemblyReference.cache
+C:\Users\hasan\OneDrive\Skrivbord\ForSumonBhai\AoC2021day1\AoC2021day1\obj\Debug\net6.0\AoC2021day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\OneDrive\Skrivbord\ForSumonBhai\AoC2021day1\AoC2021day1\obj\Debug\net6.0\AoC2021day1.AssemblyInfoInputs.cache
+C:\Users\hasan\OneDrive\Skrivbord\ForSumonBhai\AoC2021day1\AoC2021day1\obj\Debug\net6.0\AoC2021day1.AssemblyInfo.cs
+C:\Users\hasan\OneDrive\Skrivbord\ForSumonBhai\AoC2021day1\AoC2021day1\obj\Debug\net6.0\AoC2021day1.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Skrivbord\ForSumonBhai\AoC2021day1\AoC2021day1\obj\Debug\net6.0\AoC2021day1.dll
+C:\Users\hasan\OneDrive\Skrivbord\ForSumonBhai\AoC2021day1\AoC2021day1\obj\Debug\net6.0\refint\AoC2021day1.dll
+C:\Users\hasan\OneDrive\Skrivbord\ForSumonBhai\AoC2021day1\AoC2021day1\obj\Debug\net6.0\AoC2021day1.pdb
+C:\Users\hasan\OneDrive\Skrivbord\ForSumonBhai\AoC2021day1\AoC2021day1\obj\Debug\net6.0\AoC2021day1.genruntimeconfig.cache
+C:\Users\hasan\OneDrive\Skrivbord\ForSumonBhai\AoC2021day1\AoC2021day1\obj\Debug\net6.0\ref\AoC2021day1.dll
